@@ -270,7 +270,7 @@ $iperf.Add_FormClosing({ killall })
 $text_startPort.Text = "5201"
 $text_instances.Text = "10"
 $text_parallel.Text = "4"
-$text_windowSize.Text = "4"
+$text_windowSize.Text = "32M"
 $text_bandwidth.Text = "100m"
 $text_serverAddress.Text = "103.214.104.29"
 $rad_client.Checked = $true
